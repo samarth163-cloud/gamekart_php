@@ -1,0 +1,35 @@
+# Operating System files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.gemini/
+.agents/
+
+# Logs & Temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+error_log
+php_errors.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
